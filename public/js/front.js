@@ -40,7 +40,7 @@ $(window).resize(function () {
 
 
 /* =========================================
- *  for demo purpose only - can be deleted 
+ *  for demo purpose only - can be deleted
  *  =======================================*/
 
 function demo() {
@@ -109,7 +109,7 @@ function animations() {
 }
 
 /* =========================================
- * sliding 
+ * sliding
  *  =======================================*/
 
 function sliding() {
@@ -125,7 +125,7 @@ function sliding() {
 }
 
 /* =========================================
- * sliders 
+ * sliders
  *  =======================================*/
 
 function sliders() {
@@ -148,7 +148,7 @@ function sliders() {
 }
 
 /* =========================================
- * counters 
+ * counters
  *  =======================================*/
 
 function counters() {
@@ -161,17 +161,17 @@ function counters() {
 }
 
 /* =========================================
- * parallax 
+ * parallax
  *  =======================================*/
 
 function parallax() {
 
     $('.text-parallax').parallax("50%", 0.1);
-    
+
 }
 
 /* =========================================
- *  masonry 
+ *  masonry
  *  =======================================*/
 
 function masonry() {
@@ -195,7 +195,7 @@ function masonry() {
 }
 
 /* =========================================
- * filter 
+ * filter
  *  =======================================*/
 
 $('#filter a').click(function (e) {
@@ -230,7 +230,7 @@ $('#filter a').click(function (e) {
 });
 
 /* =========================================
- *  open reference 
+ *  open reference
  *  =======================================*/
 
 $('.reference-item').click(function (e) {
@@ -319,7 +319,7 @@ $('#detail .close').click(function () {
 })
 
 /* =========================================
- * full screen intro 
+ * full screen intro
  *  =======================================*/
 
 function fullScreenContainer() {
@@ -341,7 +341,7 @@ function fullScreenContainer() {
 }
 
 /* =========================================
- *  map 
+ *  map
  *  =======================================*/
 
 function map() {
