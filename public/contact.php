@@ -4,7 +4,7 @@
  * configure here
  */
 $from = 'IT WORKER <it@domain.com>';
-$sendTo = 'jsrlanime@gmail.com';
+$sendTo = 'jesusrdev@gmail.com';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
 $htmlHeader = '';
